@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/andr%C3%A9-joarez-nascimento-cardoso-48921022a/">André J. Nascimento</a>
   </h1>
   
-  <h2>🧔‍♂️Meu perfil</h2>
+  <h2>🧔‍♂️Meu perfil </h2>
   <ul> 
     <li><h4>Sou desenvolvedor de Software!</h4>
     <li><h4>Competências:</h4><h5>VueJs, Vuetify, Vue-Router, Vuex, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, NPM, Axios, ESlint, Path, Endpoint entre outros.</h5>
