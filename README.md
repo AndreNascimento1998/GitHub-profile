@@ -6,20 +6,21 @@
     <a href="https://www.linkedin.com/in/andr%C3%A9-joarez-nascimento-cardoso-48921022a/">André J. Nascimento</a>
   </h1>
   
-  <p align="center">
-    Sou Desenvolvedor de Software
-  </p>
+  <h2>🧔‍♂️Meu perfil</h2>
+  <ul> 
+    <li><h4>Sou desenvolvedor de Software!</h4>
+    <li><h4>Competências:</h4><h5>VueJs, Vuetify, Vue-Router, Vuex, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, NPM, Axios, ESlint, Path, Endpoint entre outros.</h5>
+    <li><h4>Conhecimentos intermediários:</h4><h5>LinguagemC, NodeJS, NestJS, Composer, Express, MongoDB e MySQL.</h5>
+  </ul>
   
+  <h2>👤Contato</h2>
   <div align="center">
+  <h4>E-mail: andre.ncardoso@hotmail.com</h4>
   <a href="https://www.linkedin.com/in/andr%C3%A9-joarez-nascimento-cardoso-48921022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+    </div>
+
   
-</div>
-
-<div align="center">
-  <a href="https://github.com/AndreNascimento1998">
-</div>
-
+  <h2>💻Ferramentas</h2>
 <div align="center" valign="top"><br>
   <img align="center" alt="vuejs" height="30" width="90" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
